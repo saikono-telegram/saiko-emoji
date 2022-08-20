@@ -18,6 +18,7 @@ form {
 
 input[type="id"],
 input[type="summ"],
+input[type="file"],
 input[type="message"],
 select {
   font-size: 16px;
