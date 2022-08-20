@@ -18,7 +18,6 @@ form {
 
 input[type="id"],
 input[type="summ"],
-input[type="file"],
 input[type="message"],
 select {
   font-size: 16px;
@@ -97,9 +96,9 @@ legend {
 
 label {
   display: block;
-  line-height: 30px;
-  margin-bottom: 7px;
-  font-size: 35px;
+  line-height: 24px;
+  margin-bottom: 4px;
+  font-size: 16px;
   font-weight: 600;
   color: #f8f8f8;
   text-align: center;
